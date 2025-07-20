@@ -1,5 +1,7 @@
-Link pizarra https://zoom.us/wb/doc/oemouhrbQLqWYbfK4ojkOg/p/160916515913728
-![Python POO](image.png)
+## Programación Orientada a Objetos
+
+![Python POO](image.png) { width=200px height=200px }
+
 # Abstracción
 
 Se centra en las caracteristicas esenciales de algún objeto, en relación a la persperctiva del observador.
@@ -16,3 +18,10 @@ atributos: Son las caracteristicas que definen un objeto.
 # Polimorfismo
 
 # Encapsulamiento
+
+
+
+
+Link pizarra https://zoom.us/wb/doc/oemouhrbQLqWYbfK4ojkOg/p/160916515913728
+
+
